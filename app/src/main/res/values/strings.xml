@@ -10,4 +10,15 @@
     <string name="empty_text">nothing here</string>
     <string name="empty_friends">No Friends here!</string>
 
+    <string-array name="android_names">
+        <item>android beta</item>
+        <item>android 1.0</item>
+        <item>cupcake</item>
+        <item>donut</item>
+        <item>gingerbread</item>
+        <item>froyo</item>
+        <item>ice cream sandwich</item>
+        <item>lollipop</item>
+    </string-array>
+
 </resources>
